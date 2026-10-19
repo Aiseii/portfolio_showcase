@@ -1,0 +1,6 @@
+Student: afiq@gmail.com / Afiq@12345
+Admin: admin@gmail.com / Admin@12345
+Extra demonstration student: sarah.demo@example.com / Demo@12345
+
+Import assignment_system.sql using phpMyAdmin. WARNING: The SQL drops and rebuilds the five project tables, which erases their existing data. Back up your existing database first. Uploaded demo TXT documents are stored in uploads/.
+Change demo passwords before production.
