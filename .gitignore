@@ -1,6 +1,11 @@
+
 /uploads/*
 !/uploads/.htaccess
 !/uploads/index.html
 /.idea/
 /.vscode/
 *.log
+/vendor/
+.env
+.env.*
+!.env.example
